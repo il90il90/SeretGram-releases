@@ -1,0 +1,13 @@
+SeretGram — first release
+
+- Your Telegram films and series in one library, on TV and phone
+- Updates: the app tells you when a new version is out and installs it in place
+- Films posted under a Hebrew and an English name are one film
+- Categories from the posts themselves and Wikidata; descriptions from Wikipedia
+- Lighter with big libraries: lists refresh calmly while the library loads
+- Photos stay out of the way unless you turn them on (Settings → Photos)
+- Player: volume and brightness at their own edge; tap the sides to skip 10 s
+- Subtitles from Telegram or online, Hebrew and English
+- 3 days free, then a one-time licence at seretgram.com
+
+<!-- seretgram-release commit=d9d3dbbca1b3a2ee2c171d77682dabb5503f7f9c versionCode=10427 -->
