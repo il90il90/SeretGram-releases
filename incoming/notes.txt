@@ -1,0 +1,9 @@
+SeretGram 0.2.445
+
+- Settings → Account shows your Telegram account: how it is connected, the phone number, name and photo
+- Library loading: pause and resume, and choose a group to read first
+- Keeps loading in the background when the app is closed, and catches up on posts made meanwhile
+- Gentler with Telegram: calmer pacing, and calmer still after Telegram asks to wait
+- The update notice now reads "You have version …" on every device
+
+<!-- seretgram-release commit=f72702223508eef6fb0d0fbd212b7b42d50dc65e versionCode=20445 -->
