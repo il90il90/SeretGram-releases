@@ -1,0 +1,14 @@
+SeretGram 0.2 — a big update
+
+- Film posters: each film shows the picture its group posted with it
+- Search sits at the top of Home, on the TV and the phone; Photos has its own tab
+- Your licence is entered once and kept through every update
+- Lighter with big libraries: lists refresh calmly while the library loads
+- Photos stay out of the way on Home and in Search unless you turn them on (Settings → Photos)
+- Films posted under a Hebrew and an English name are one film
+- Descriptions and categories from Wikipedia and Wikidata, no account needed
+- Player: volume and brightness at their own edge; tap the sides to skip 10 s
+- Updates: the app tells you when a new version is out and installs it in place
+- 3 days free, then a one-time licence at seretgram.com
+
+<!-- seretgram-release commit=c7695e7942434af4d626ae9d951d332c9a42e490 versionCode=20435 -->
